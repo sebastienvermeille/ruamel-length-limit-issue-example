@@ -1,0 +1,5 @@
+some:
+  yaml-file:
+    with:
+      some-quite-long-content:
+        key: "this is a quite long string that should be reformatted to use less than 80 characters (it uses > 100)"
